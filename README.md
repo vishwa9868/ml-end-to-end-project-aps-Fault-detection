@@ -19,6 +19,6 @@ To download year dataset
 
 ---
 wget https://raw.githubusercontent.com/vishwa9868/sensor.fault-detection/main/aps/_failure_training_set1.csv
----
+
 
 This file is addited by vishwa9868 in git hub
