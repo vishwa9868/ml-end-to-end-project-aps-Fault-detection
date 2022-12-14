@@ -13,3 +13,8 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+wget https://raw.githubusercontent.com/vishwa9868/sensor.fault-detection/main/aps/_failure_training_set1.csv
+```
+
+This changes made in neurolab
